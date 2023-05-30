@@ -1,0 +1,20 @@
+{
+    "name": "pacofer71/pruebaphp",
+    "description": "Examen PHP 26/05/23",
+    "type": "project",
+    "license": "GNU/GPL",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco Fernandez",
+            "email": "pacofer71@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
